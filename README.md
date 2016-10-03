@@ -1,1 +1,1 @@
-# MIPS-Mobile-App
+# CVP Packer Templates
